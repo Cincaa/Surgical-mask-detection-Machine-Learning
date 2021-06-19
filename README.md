@@ -37,4 +37,4 @@ I used l2 normalization to scale train and test data:  - also known as least squ
   
 ![6](https://i.ibb.co/pdLTkNK/6.jpg) ![7](https://i.ibb.co/B4VVc00/7.jpg)
 ### Conclusions
-	This project clearly teaches me the basics of machine learning, how to debug and how to properly use various libraries. Even if I felt lost sometimes and I was struggling in finding solutions, it was an interesting experience overall. The topic approached makes this competition a good story to tell in front of your non-geek friends.
+This project clearly teaches me the basics of machine learning, how to debug and how to properly use various libraries. Even if I felt lost sometimes and I was struggling in finding solutions, it was an interesting experience overall. The topic approached makes this competition a good story to tell in front of your non-geek friends.
